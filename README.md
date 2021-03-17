@@ -1,5 +1,5 @@
 # First_chatbot_orientation_ma
-C'est une idée de projet d'orientation à base de chatbot en open source pour facilter acces à l'information sur les écoles ingenieurs marocaines et francaises et pourquoi pas internationales, waiting for your contribution :D
+C'est une idée de projet d'orientation à base de chatbot en open source pour facilter acces à l'information à propos les écoles ingenieurs marocaines et francaises et pourquoi pas internationales, waiting for your contribution :D
 # Lien pour avancement :
 https://docs.google.com/spreadsheets/u/1/d/1B16R7-TZW5aXXyFqfZ5a3B8nz4w81-9m6OhWAEYXS_M/edit?usp=sharing&fbclid=IwAR2RTvD7AJZ9lZ8VYYXRq_XPbOzJrh3kRTLs15nKm7_tkfhDshjlWlgbBt4
 # Comment creer son compte sur IBM platforme car la projet sera baser sur les techno de IBM WATSON !
